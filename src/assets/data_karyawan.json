@@ -1,0 +1,158 @@
+[
+    {
+        "name": "IT",
+        "data": [
+            {
+                "name": "Indra",
+                "ext": 1310
+            },
+            {
+                "name": "Harris",
+                "ext": 1312
+            },
+            {
+                "name": "Arif",
+                "ext": 1312
+            },
+            {
+                "name": "Handre",
+                "ext": 1312
+            },
+            {
+                "name": "Ari",
+                "ext": 1312
+            }
+        ],
+        "colorHeader": "info"
+    },
+    {
+        "name": "ENG",
+        "data": [
+            {
+                "name": "Mr. Supardi Lambok",
+                "ext": 3001
+            },
+            {
+                "name": "Mr. Sobri",
+                "ext": 1976
+            },
+            {
+                "name": "Mr. Amin Wiyoko",
+                "ext": 1508
+            },
+            {
+                "name": "Ade Abdullah, Adif Mahendra",
+                "ext": 2019
+            },
+            {
+                "name": "Siti Dwi Riyanti, Sugeng Riyanto",
+                "ext": 2019
+            }
+        ],
+        "colorHeader": "success"
+    },
+    {
+        "name": "TI",
+        "data": [
+            {
+                "name": "Sukijan",
+                "ext": 2013
+            },
+            {
+                "name": "Eko Setia",
+                "ext": 2013
+            },
+            {
+                "name": "Sabar",
+                "ext": 2013
+            },
+            {
+                "name": "Handoyo",
+                "ext": 2013
+            },
+            {
+                "name": "kasianto",
+                "ext": 2013
+            }
+        ],
+        "colorHeader": "warning"
+    },
+    {
+        "name": "MECHA PRODUCTION",
+        "data": [
+            {
+                "name": "Mr. A. Kholiq",
+                "ext": 3003
+            },
+            {
+                "name": "Budi Prayitno, Sudarno",
+                "ext": 3003
+            },
+            {
+                "name": "Lelly Tarliani",
+                "ext": 3003
+            },
+            {
+                "name": "Eko Margono,Aditiya Renaldy",
+                "ext": 3005
+            },
+            {
+                "name": "Zainal Arifin, Tono Hardian, Wilmy Rohman Utama, Susilo, Hadi Purnomo, Fitriyah Indrawati",
+                "ext": 3005
+            }
+        ],
+        "colorHeader": "info"
+    },
+    {
+        "name": "MEETING ROOM",
+        "data": [
+            {
+                "name": "VIP 1",
+                "ext": 1216
+            },
+            {
+                "name": "VIP 2",
+                "ext": 1217
+            },
+            {
+                "name": "Meeting Room 1",
+                "ext": 2006
+            },
+            {
+                "name": "Meeting Room 2",
+                "ext": 2024
+            },
+            {
+                "name": "Meeting Room 3",
+                "ext": 2011
+            }
+        ],
+        "colorHeader": "success"
+    },
+    {
+        "name": "ACCOUNTING",
+        "data": [
+            {
+                "name": "Mr. Y Ishitsuka",
+                "ext": 1300
+            },
+            {
+                "name": "Mr. Jeimmy",
+                "ext": 1306
+            },
+            {
+                "name": "Mrs. Nurianti",
+                "ext": 1308
+            },
+            {
+                "name": "Nurita Puspitasari",
+                "ext": 1302
+            },
+            {
+                "name": "Eka Puji Widiastuti",
+                "ext": 1302
+            }
+        ],
+        "colorHeader": "warning"
+    }
+]
