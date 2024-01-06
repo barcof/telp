@@ -29,6 +29,9 @@ Vue.use(VueRouter);
 Vue.use(FontSource);
 
 Vue.config.productionTip = false;
+// Vue.config.devtools = false;
+// Vue.config.debug = false;
+// Vue.config.silent = true;
 
 import Home from "./components/Home.vue";
 import Setting from "./components/SettingPage.vue";
